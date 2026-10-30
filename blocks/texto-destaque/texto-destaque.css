@@ -7,7 +7,7 @@
 
 .texto-destaque .texto-destaque-etiqueta {
   font-size: var(--body-font-size-xs);
-  font-weight: 700;
+  font-weight: 1000;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--link-color);
