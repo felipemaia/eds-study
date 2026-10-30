@@ -1,0 +1,19 @@
+/* blocks/texto-destaque/texto-destaque.css */
+.texto-destaque .texto-destaque-conteudo {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.texto-destaque .texto-destaque-etiqueta {
+  font-size: var(--body-font-size-xs);
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--link-color);
+}
+
+.texto-destaque h2 { margin-top: 0.25em; }
+
+/* variação: Texto Destaque (esquerda) */
+.texto-destaque.esquerda .texto-destaque-conteudo { text-align: left; margin: 0; }
